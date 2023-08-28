@@ -1,11 +1,11 @@
-# Options trades dashboard
+# Streamlit template  
 
 ## Start locally
 
 1. Clone this repo
 
    ```shell
-   git clone https://github.com/xcollantes/stock-analysis-frontend
+   git clone https://github.com/xcollantes/streamlit-template   
    ```
 
 1. Download dependencies:
